@@ -5,17 +5,17 @@ I Performed basic fundaments of static and dynamic web scraping using python lib
 
 ## What you will learn from this post:
 
-** basic understanding of web scraping
-** how to extract data from a website using classes and HTML tags
-** how to use requests module to get data
-** how to use Beautifulsoup
+- basic understanding of web scraping
+- how to extract data from a website using classes and HTML tags
+- how to use requests module to get data
+- how to use Beautifulsoup
 
 ## Requirements:
-** python3
-** requests
-** bs4
+- python3
+- requests
+- bs4
 
 ## Installation:
-** sudo apt-get python3-pip
-** pip3 install requests
-** pip3 install bs4
+- sudo apt-get python3-pip
+- pip3 install requests
+- pip3 install bs4
