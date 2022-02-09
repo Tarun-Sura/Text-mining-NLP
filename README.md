@@ -19,3 +19,6 @@ I Performed basic fundaments of static and dynamic web scraping using python lib
 - sudo apt-get python3-pip
 - pip3 install requests
 - pip3 install bs4
+- pip3 install datetime
+- pip3 install matplotlib
+- pip3 install seaborn 
